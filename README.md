@@ -39,4 +39,6 @@ To make recommendations, I created a function that takes an input anime title an
 #4 Integration and Automation with Apache Airflow:
 To automate the ETL pipeline and recommendation system, I leveraged Apache Airflow. I created a DAG (Directed Acyclic Graph) named "anime_etl_pipeline" that schedules the execution of the ETL process and the recommendation task. The ETL process is triggered daily, ensuring up-to-date data in the database.
 
-<img width="1434" alt="image" src="https://github.com/silvesterjk/DEProject/assets/108580657/69e9a41e-2bad-4f92-80c1-454061bb8324">
+<img width="1434" alt="image" src="https://github.com/silvesterjk/DEProject/assets/108580657/d69775e1-0a3d-4755-9e17-f9d7b7d80aa2">
+
+
