@@ -47,11 +47,11 @@ default_args = {
 
 dag = DAG('anime_etl_pipeline', default_args=default_args, description='Pipeline for cleaning anime data')
 
-clean_data_task = PythonOperator(
-    task_id='clean_data',
+etl_task = PythonOperator(
+    task_id='etl_task',
     python_callable=anime_etl,
     dag=dag
 )
 
-clean_data_task
+etl_task
 
