@@ -1,0 +1,49 @@
+[2023-05-25T13:56:41.950+0530] {processor.py:157} INFO - Started process (PID=23514) to work on /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T13:56:41.950+0530] {processor.py:826} INFO - Processing file /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py for tasks to queue
+[2023-05-25T13:56:41.951+0530] {logging_mixin.py:149} INFO - [2023-05-25T13:56:41.951+0530] {dagbag.py:541} INFO - Filling up the DagBag from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T13:56:42.571+0530] {processor.py:836} INFO - DAG(s) dict_keys(['anime_etl_pipeline']) retrieved from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T13:56:42.626+0530] {logging_mixin.py:149} INFO - [2023-05-25T13:56:42.626+0530] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-25T13:56:43.488+0530] {logging_mixin.py:149} INFO - [2023-05-25T13:56:43.488+0530] {dag.py:3486} INFO - Setting next_dagrun for anime_etl_pipeline to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-25T13:56:43.509+0530] {processor.py:179} INFO - Processing /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py took 1.561 seconds
+[2023-05-25T13:58:47.569+0530] {processor.py:157} INFO - Started process (PID=23636) to work on /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T13:58:47.570+0530] {processor.py:826} INFO - Processing file /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py for tasks to queue
+[2023-05-25T13:58:47.571+0530] {logging_mixin.py:149} INFO - [2023-05-25T13:58:47.571+0530] {dagbag.py:541} INFO - Filling up the DagBag from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T13:58:48.178+0530] {processor.py:836} INFO - DAG(s) dict_keys(['anime_etl_pipeline']) retrieved from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T13:58:48.231+0530] {logging_mixin.py:149} INFO - [2023-05-25T13:58:48.230+0530] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-25T13:58:49.089+0530] {logging_mixin.py:149} INFO - [2023-05-25T13:58:49.088+0530] {dag.py:3486} INFO - Setting next_dagrun for anime_etl_pipeline to 2023-05-23T00:00:00+00:00, run_after=2023-05-24T00:00:00+00:00
+[2023-05-25T13:58:49.112+0530] {processor.py:179} INFO - Processing /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py took 1.544 seconds
+[2023-05-25T14:01:54.148+0530] {processor.py:157} INFO - Started process (PID=23758) to work on /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:01:54.150+0530] {processor.py:826} INFO - Processing file /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py for tasks to queue
+[2023-05-25T14:01:54.151+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:01:54.151+0530] {dagbag.py:541} INFO - Filling up the DagBag from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:01:55.267+0530] {processor.py:836} INFO - DAG(s) dict_keys(['anime_etl_pipeline']) retrieved from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:01:56.725+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:01:56.725+0530] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-25T14:01:56.755+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:01:56.754+0530] {dag.py:3486} INFO - Setting next_dagrun for anime_etl_pipeline to 2023-05-25T00:00:00+00:00, run_after=2023-05-26T00:00:00+00:00
+[2023-05-25T14:01:56.784+0530] {processor.py:179} INFO - Processing /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py took 2.637 seconds
+[2023-05-25T14:04:11.317+0530] {processor.py:157} INFO - Started process (PID=23828) to work on /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:04:11.319+0530] {processor.py:826} INFO - Processing file /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py for tasks to queue
+[2023-05-25T14:04:11.320+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:04:11.320+0530] {dagbag.py:541} INFO - Filling up the DagBag from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:04:11.966+0530] {processor.py:836} INFO - DAG(s) dict_keys(['anime_etl_pipeline']) retrieved from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:04:12.857+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:04:12.856+0530] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-25T14:04:12.890+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:04:12.890+0530] {dag.py:3486} INFO - Setting next_dagrun for anime_etl_pipeline to 2023-05-25T00:00:00+00:00, run_after=2023-05-26T00:00:00+00:00
+[2023-05-25T14:04:12.913+0530] {processor.py:179} INFO - Processing /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py took 1.597 seconds
+[2023-05-25T14:06:27.186+0530] {processor.py:157} INFO - Started process (PID=23908) to work on /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:06:27.189+0530] {processor.py:826} INFO - Processing file /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py for tasks to queue
+[2023-05-25T14:06:27.190+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:06:27.189+0530] {dagbag.py:541} INFO - Filling up the DagBag from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:06:27.828+0530] {processor.py:836} INFO - DAG(s) dict_keys(['anime_etl_pipeline']) retrieved from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:06:28.638+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:06:28.637+0530] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-25T14:06:28.659+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:06:28.659+0530] {dag.py:3486} INFO - Setting next_dagrun for anime_etl_pipeline to 2023-05-25T00:00:00+00:00, run_after=2023-05-26T00:00:00+00:00
+[2023-05-25T14:06:28.683+0530] {processor.py:179} INFO - Processing /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py took 1.498 seconds
+[2023-05-25T14:08:39.354+0530] {processor.py:157} INFO - Started process (PID=24000) to work on /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:08:39.355+0530] {processor.py:826} INFO - Processing file /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py for tasks to queue
+[2023-05-25T14:08:39.356+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:08:39.356+0530] {dagbag.py:541} INFO - Filling up the DagBag from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:08:39.968+0530] {processor.py:836} INFO - DAG(s) dict_keys(['anime_etl_pipeline']) retrieved from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:08:40.725+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:08:40.724+0530] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-25T14:08:40.746+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:08:40.746+0530] {dag.py:3486} INFO - Setting next_dagrun for anime_etl_pipeline to 2023-05-25T00:00:00+00:00, run_after=2023-05-26T00:00:00+00:00
+[2023-05-25T14:08:40.769+0530] {processor.py:179} INFO - Processing /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py took 1.416 seconds
+[2023-05-25T14:10:43.496+0530] {processor.py:157} INFO - Started process (PID=24053) to work on /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:10:43.498+0530] {processor.py:826} INFO - Processing file /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py for tasks to queue
+[2023-05-25T14:10:43.499+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:10:43.499+0530] {dagbag.py:541} INFO - Filling up the DagBag from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:10:44.137+0530] {processor.py:836} INFO - DAG(s) dict_keys(['anime_etl_pipeline']) retrieved from /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py
+[2023-05-25T14:10:44.953+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:10:44.953+0530] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-25T14:10:44.974+0530] {logging_mixin.py:149} INFO - [2023-05-25T14:10:44.974+0530] {dag.py:3486} INFO - Setting next_dagrun for anime_etl_pipeline to 2023-05-25T00:00:00+00:00, run_after=2023-05-26T00:00:00+00:00
+[2023-05-25T14:10:45.003+0530] {processor.py:179} INFO - Processing /Users/silvesterjk/Projects/Data Engineering/DEProject/anime_etl_pipeline/anime_etl_pipeline.py took 1.508 seconds
