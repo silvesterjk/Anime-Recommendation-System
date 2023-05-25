@@ -1,4 +1,4 @@
-Building a Content-Based Anime Recommendation System
+##Building a Content-Based Anime Recommendation System
 
 In this project, I developed a content-based recommendation system for anime using an ETL (Extract, Transform, Load) pipeline and a collaborative filtering approach. The content-based anime recommendation system has several potential business use cases and benefits. Here are some key business cases for implementing such a system:
 1. Personalized Recommendations: The system provides tailored recommendations based on users' preferences, enhancing their overall viewing experience.
