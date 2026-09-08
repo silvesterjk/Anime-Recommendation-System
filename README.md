@@ -1,19 +1,19 @@
-Anime Recommendation Engine
+#Anime Recommendation Engine
 
 An end-to-end recommendation pipeline that combines metadata-driven content filtering with collaborative filtering to deliver personalized anime suggestions at scale.
 
-Overview
+##Overview
 
 Discovering new anime can be overwhelming given the sheer volume of titles released each season. This repository provides an end-to-end, modular recommendation framework that surfaces tailored titles based on user viewing history, genre affinity, and cross-user behavior patterns. Built around a clean ETL pipeline, it processes raw catalog metadata and interaction matrices to deliver relevant recommendations in real time.
 
-Key Features
+##Key Features
 
 ⚬ Hybrid Recommendation Architecture: Combines content-based filtering (metadata, genres, themes) with collaborative filtering to capture both item similarity and latent community preferences.
 ⚬ Automated ETL Pipeline: Streamlines ingestion, data validation, and transformation of large-scale anime metadata and user ratings.
 ⚬ Cold-Start Resilience: Leverages deep item-level features to generate high-quality suggestions even for newly added titles with zero community ratings.
 ⚬ Optimized for Discovery: Surfaces niche, high-relevance titles to prevent popularity bias and increase user catalog exploration.
 
-Use Cases
+##Use Cases
 
 ⚬ Streaming Platforms: Drive catalog discovery and watch-time by integrating contextual "more like this" carousels.
 ⚬ Community Portals & Trackers: Power custom feed algorithms and "what to watch next" engines for anime cataloging communities.
